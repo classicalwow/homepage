@@ -1,39 +1,33 @@
-# 新N服码农根据地（联盟）
+# 沙尔图拉IT公会Hello World
 
 ## quick start
 
-### join wechat group
+### 微信群
 
-![微信二维码](img/wechatgroup2.jpeg)
+![微信二维码](img/wechat_group.jpg)
 
-### join channel in northdale server
+## 公会宗旨
 
-```bash
-/join helloworld
-```
+和谐，文明，友爱，一起打本，一起交流技术
 
-## background
+## 公会活动
 
-一起打副本，一起写插件，一起打架，一起聊技术，人多的话成立一个工会，名字我都想好了，叫`hello world`,美滋滋
+每周六下午1-5点，预计10月下旬开组DKP团，大家可以先去金团活动
 
 ## todo
 
-
-- [x] 建立微信交流群和游戏频道
-- [ ] 看人数时间成立公会
+- [x] 建立微信交流群和公会
+- [ ] 10月下旬开组MC DKP团
 - [ ] 公会官网
-- [ ] 开荒naxx
-- [ ] 屠城
 
-## resources
+## 相关游戏技术资料
 
 1. [手机玩魔兽世界](doc/steam.md)
 
-2. [战士一键pvp/pve](https://github.com/zimengle/Fury)
+2. [整合插件](https://github.com/classicalwow/interface)
 
-3. [战场Pvp框](https://github.com/zimengle/enemyFrames)
+3. [自动登录挂机脚本](https://github.com/classicalwow/wowsikuli)
 
 ## 最后
 
-欢迎PR投稿插件黑科技,邀请你的程序员朋友一起加入，程序员团队天下无敌！
-
+欢迎PR贡献相关游戏技术资料一起学习
