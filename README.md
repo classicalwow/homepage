@@ -28,6 +28,8 @@
 
 3. [自动登录挂机脚本](https://github.com/classicalwow/wowsikuli)
 
+4. `[公会招人插件](https://github.com/classicalwow/AutoInviteGuild),大家有空都招招人`
+
 ## 最后
 
 欢迎PR贡献相关游戏技术资料一起学习
