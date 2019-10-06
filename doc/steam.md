@@ -14,22 +14,7 @@
 
 ### 手机按键映射
 
-moonlight客户端有虚拟按键，可以外界手柄，如果是IOS的系统，只能使用MFI协议的手柄，我自己买的是 [这款](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.47872e8d5G9qO2&id=582775143593&_u=d3td1r106a1)
-
-然后要解决手机按键映射成电脑键盘鼠标的按键，需要安装xpadder软件，自行寻找破解版。
-
-按键设置技巧提示
-
-1. R1 R2 L1 L2是手柄最容易按的键位，推荐设置最常用的技能，比如一键输出/坦克/治疗，tab切换目标 拦截啥的，必要时可以设置按住连发功能，按住就等于一直按某个技能，适合一键输出等插件宏
-
-2. 左轮盘设置wasd
-
-3. 右轮盘设置鼠标移动
-
-4. start 键设置按住鼠标右键，这样拖动右滚轮是在按住鼠标右键移动窗口
-
-5. 其他按键根据需要自行映射
-
+将手机客户端的手柄按键映射到PC上，需要安装一个[wowmapper客户端](https://github.com/topher-au/WoWmapper/releases/tag/8.2.0)，他会自动映射，同时需要安装[consoleport插件](https://www.curseforge.com/wow/addons/console-port/files/2797039)，专门针对手柄在魔兽的体验优化,这里有[手柄体验视频](https://v.youku.com/v_show/id_XMTY2NTA4NzEyNA==.html?spm=a2h0k.11417342.soresults.dtitle)
 
 ### 外网穿透
 
